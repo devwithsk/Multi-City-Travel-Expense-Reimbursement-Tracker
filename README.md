@@ -83,7 +83,7 @@ The result is a faster, more transparent, and policy-compliant reimbursement pro
 
 ## Microsoft Excel Functions
 
-* XLOOKUP
+* VLOOKUP
 * Nested IF Functions
 * Data Validation
 * Conditional Formatting
